@@ -1,0 +1,32 @@
+li {
+  list-style: none; }
+
+.wrapper {
+  background-image: url("../skateboard-images/bg.jpg"); }
+
+.wb {
+  background: white; }
+
+img {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  z-index: 5; }
+
+.layer1 {
+  display: block;
+  position: absolute;
+  z-index: 10;
+  top: 0; }
+
+.container .jumbotron, .container-fluid .jumbotron {
+  padding-right: 5px;
+  padding-left: 5px;
+  border-radius: 0; }
+
+.jumbotron {
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+/*# sourceMappingURL=styles.css.map */
